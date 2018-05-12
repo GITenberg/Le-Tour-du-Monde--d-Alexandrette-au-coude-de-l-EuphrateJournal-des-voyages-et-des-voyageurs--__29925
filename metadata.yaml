@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25419
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89douard_Charton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29925#Le-Tour-du-Monde--d-Alexandrette-au-coude-de-l-EuphrateJournal-des-voyages-et-des-voyageurs--_
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2009-09-07'
 gutenberg_type: Text
